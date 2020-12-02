@@ -87,5 +87,5 @@ $ pip install intdash
 
 本サンプルコードでは、データの伝送およびデータの可視化に、以下の製品を使用します。製品の使用方法については intdashチュートリアルを参照してください。
 
-- データの伝送：**Visual M2M Motion**
+- データの伝送：**intdash Motion**
 - データの可視化：**Visual M2M Data Visualizer**
