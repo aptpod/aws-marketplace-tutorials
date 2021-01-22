@@ -88,5 +88,5 @@ In this tutorial, there are cases where signal definitions (definition for conve
 
 In this sample code, the following products are used for data transmission and data visualization. See the intdash tutorial for how to use these products.
 
-- Data transmission: **Visual M2M Motion**
+- Data transmission: **intdash Motion**
 - Data visualization: **Visual M2M Data Visualizer**
